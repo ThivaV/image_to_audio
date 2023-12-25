@@ -1,0 +1,5 @@
+streamlit
+scipy
+transformers[torch]
+langchain==0.0.352
+openai==1.6.1
