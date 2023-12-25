@@ -1,3 +1,14 @@
+---
+title: Image To Audio
+emoji: 📢
+colorFrom: gray
+colorTo: yellow
+sdk: streamlit
+sdk_version: 1.29.0
+app_file: app.py
+pinned: false
+---
+
 # The Image Reader 📢
 
 [The Image Reader 📢 - Playground](www.google.com)
