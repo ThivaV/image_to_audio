@@ -11,7 +11,7 @@ pinned: false
 
 # The Image Reader 📢
 
-[The Image Reader 📢 - Playground](www.google.com)
+[The Image Reader 📢 - Playground](https://huggingface.co/spaces/thivav/image-to-audio)
 
 This application analyzes the uploaded image, generates an imaginative phrase, and then converts it into audio.
 
